@@ -7,3 +7,4 @@ The Weizmann datasets link:https://www.wisdom.weizmann.ac.il/~vision/SpaceTimeAc
 This repository contains:
 1. Speed_EightDistance.m  It is the feature extracting 
 2. svm.m  Classification file based on multi-class SVM.
+3. The csv files are features extracted by Speed_EightDFistance. It includes train-data and test-data.
