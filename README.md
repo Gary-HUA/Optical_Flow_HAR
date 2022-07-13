@@ -1,6 +1,8 @@
 # Optical_Flow_HAR
-A Hybrid Speed and Radial Distance Feature Descriptor Using Optical Flow Approach in HAR\\
+A Hybrid Speed and Radial Distance Feature Descriptor Using Optical Flow Approach in HAR
+
 Author: Hua Guang Hui 
+Year: 2022
 
 The Weizmann datasets link:https://www.wisdom.weizmann.ac.il/~vision/SpaceTimeActions.html
 
