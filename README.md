@@ -3,7 +3,7 @@ A Hybrid Speed and Radial Distance Feature Descriptor using Optical Flow Approac
 ## dataset 
 weizmann dataset: https://www.wisdom.weizmann.ac.il/~vision/SpaceTimeActions.html
 ### dataset structure: 
-dource file: Weizmann 
+Weizmann 
 - Train_datasets
   - walk
   - bend
