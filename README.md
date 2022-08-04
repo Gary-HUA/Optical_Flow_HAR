@@ -15,7 +15,7 @@ Weizmann
   - jump
   - ...
 ###  The resuslt are updated by extract 72*2(speed)+24(Distance) on Weizmann datasets.
-RESULT TABLE (UPDATED)03/08/2022:
+RESULTS TABLE (UPDATED)03/08/2022:
 ### Average accuracy : __94.7%__
 <table width="255" border="0" cellpadding="0" cellspacing="0" style="width:191.25pt;border-collapse:collapse;table-layout:fixed;">
    <colgroup><col width="72" span="2" style="width:54.00pt;">
