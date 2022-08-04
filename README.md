@@ -16,7 +16,6 @@ dource file: Weizmann
   - ...
 ###  The resuslt are updated by extract 72*2(speed)+24(Distance) on Weizmann datasets.
 RESULT TABLE (UPDATED)03/08/2022:
-Method	Human action	classification
 <table width="255" border="0" cellpadding="0" cellspacing="0" style="width:191.25pt;border-collapse:collapse;table-layout:fixed;">
    <colgroup><col width="72" span="2" style="width:54.00pt;">
    <col width="111" style="mso-width-source:userset;mso-width-alt:3552;">
@@ -58,9 +57,4 @@ Method	Human action	classification
     <td class="xl65" x:str="">WAVE2</td>
     <td class="xl67" x:num="0.92000000000000004">92%</td>
    </tr>
-   <!--[if supportMisalignedColumns]-->
-    <tr width="0" style="display:none;">
-     <td width="111" style="width:83;"></td>
-    </tr>
-   <!--[endif]-->
   </tbody></table>
